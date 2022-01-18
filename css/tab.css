@@ -31,7 +31,7 @@ h1{font-size: 30px; padding-top: 30px;}
 .li-text h1 { color: #6c6c6c; padding: 0px 20px 0px 20px;}
 .border-b{ width: 100%;}
 .big-space h1 { padding: 40px 0px 30px;}
-
+.big-space, .li-text h1, .li-text ul{ padding-left: 0px !important;}
 }
 
 
@@ -67,7 +67,7 @@ h1{ font-size: 40px;}
 @media (max-width: 1700px) { 
 .big-space h1 , .li-text h1{ font-size: 42px;}
 .apps img{ width: 500px;}
-.big-space , .li-text h1 , .li-text ul { padding-left: 0px; padding-right: 0px; }
+.big-space , .li-text h1 , .li-text ul { padding-left: 40px; padding-right: 0px; }
 .apps h1{ padding-top: 60px;}
 
 }
