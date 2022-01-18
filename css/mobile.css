@@ -1,4 +1,13 @@
 @media (max-width: 767px) {
+   
+    form#pardot-form { width: 80%; margin:auto}
+    .form-field{ width: auto; float: none;}
+    #pardot-form input{ width: 100%;}
+    #pardot-form select{ width: 102%; margin-bottom: 10px;}
+#pardot-form input{ width:100% !important;}
+
+
+
 .apps p{ font-size: 30px !important;}
 .counter-area h1 { font-size: 30px; }
 .nav-area img{ width: 200px; margin-bottom: 7px;}
