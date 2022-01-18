@@ -72,7 +72,7 @@ footer span{ float: right; padding-right: 50px; font-size: 18px;}
 .mb-man h1{ text-align: center; padding-top: 80px;}
 .block-5{ width: 20%; text-align: center; float: left; margin-top: 100px;}
 .block-5 small{ color: #f2f2f2; font-size: 18px; padding-top: 15px; display: block;}
-.block-5 img{ margin: auto; display: block;}
+.block-5 img{ margin: auto; display: block; width: 130px;}
 
 .big-b{ background-color: #f2f2f2; display: flex;}
 .ico-area{ width: 33.33%; float: left;}
