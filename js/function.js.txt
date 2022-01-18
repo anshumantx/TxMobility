@@ -1,0 +1,20 @@
+$(function() {
+		  $('.scroll-to-section , nav ul li a, ul li a').click(function() {
+		  	if ($('#navbar').hasClass('in')) {
+			  	$('#navbar').removeClass('in');
+				$('#navbar').removeAttr('style');
+			}
+			$(this).addClass("select");
+			$(this).parent().siblings().find("a").removeClass("select");
+			if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+			  var target = $(this.hash);
+			  target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+			  if (target.length) {
+				$('html,body').animate({
+				  scrollTop: target.offset().top -55
+				}, 800);
+				return false;
+			  }
+			}
+		  });
+		});

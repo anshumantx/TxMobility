@@ -1,0 +1,61 @@
+@media (max-width: 767px) {
+.apps p{ font-size: 30px !important;}
+.counter-area h1 { font-size: 30px; }
+.nav-area img{ width: 200px; margin-bottom: 7px;}
+.navbar { float: right; position: absolute; width: 100%; border: red; top: 7px; }
+#navbar{background: #000; margin-top: 10px; padding-bottom: 10px;}
+header img.mainB{ position: relative; top: 55px;}
+.counter-area h1{ padding-top: 80px; font-size: 30px;}
+.counter-value{ font-size: 50px;}
+.counter-s{margin-bottom: 60px;}
+.counter-area{ margin-top: 0px; padding-bottom: 0px;}
+.CT { font-size: 16px;}
+.nelson img {
+    width: 100%;
+}
+.navbar-nav > li { font-weight: bold; font-size: 16px; padding-top: 7px; padding-bottom: 7px;}
+.navbar-nav > li:hover{background: #1a1a1a;}
+.navbar-nav{ margin: 0px;}
+.nelson h1 { font-size: 30px; text-align: center; padding-top: 50px;  }
+.only-text-inner{ font-size: 16px;}
+.mb-man h1 { text-align: center; padding-top: 30px; }
+.mb-man{ padding-bottom: 50px;}
+h1 {font-size: 30px;}
+.block-5{ margin-top: 40px;}
+.block-5 { width: 100%; text-align: center;}
+.mb-man{ height: auto; background-repeat: no-repeat; background-size: cover; background-position:center;}
+.nelson h1 br{ display: none;}
+.nelson{ padding: 0px 20px;}
+.nelson p { padding-top: 15px; line-height: 25px; font-size: 16px; color: #f8f8f8; text-align: center; padding: 0px;}
+.nelson h1 { font-size: 30px !important; text-align: center; padding-top: 30px !important; padding-left: 20px; padding-right: 20px; }
+.nelson img{ padding-top: 30px;}
+.apps img { width: 90% !important; margin: auto; padding-top: 50px; }
+.apps h1 , .apps p{ text-align: center;}
+.apps p{ padding: 0px; font-size: 16px !important;}
+.apps{ padding-bottom: 40px;}
+.rm{ display: none;}
+.big-space h1 , .li-text h1{ font-size: 30px !important; text-align: center;}
+.big-space h1 br, .li-text h1 br{ display: none;}
+.big-space{ padding: 0px 20px;}
+.ico-area{ text-align: center;}
+.ico-area img{ margin: auto;}
+.li-text ul { padding: 10px 20px 40px 20px; }
+.big-space h1{ line-height: 45px;}
+.li-text h1 { color: #6c6c6c; padding: 0px 20px 0px 20px; line-height: 45px;}
+.border-b{ width: 100%;}
+.big-space h1 { padding: 20px 0px 30px;}
+h1{ padding: 0px 20px; }
+.ico-area img{ width: 60px; min-height: auto !important;}
+.big-space small { font-size: 18px; }
+.ico-area { text-align: center; }
+.big-space small { font-size: 18px; padding-bottom: 30px; display: inline-block; }
+.boxes{ display: block;}
+.ico-area { width: 100%;float: none;}
+.apps p{ padding-right: 0px !important;}
+footer small{ font-size: 14px;}
+form#pardot-form{ width: 100%; margin: auto; }
+}
+
+
+
+      
