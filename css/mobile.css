@@ -4,7 +4,7 @@ form#pardot-form { width: 80%; margin:auto}
 #pardot-form input{ width: 100%;}
 #pardot-form select{ width: 102%; margin-bottom: 10px;}
 #pardot-form input{ width:100% !important;}
-footer span , footer small{ float: none; font-size: 18px; display: block; padding: 0; }
+footer span , footer small{ float: none; font-size: 15px; display: block; padding: 0; }
 
 
 .apps p{ font-size: 30px !important;}
@@ -60,7 +60,7 @@ h1{ padding: 0px 20px; }
 .apps p{ padding-right: 0px !important;}
 footer{ height: auto; line-height: 24px; padding: 10px 0px;}
 form#pardot-form{ width: 100%; margin: auto; }
-
+.contact-area{ padding-top: 50px;}
 .nav-area img { padding-left: 15px;}
 .big-space, .li-text h1, .li-text ul{ padding-left: 0px;padding-right: 0px;}
 
