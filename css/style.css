@@ -71,7 +71,7 @@ footer span{ float: right; padding-right: 50px; font-size: 18px;}
 .mb-man{background-image: url(../images/mobile-man.jpg); height: 545px; display: inline-block; width: 100%;}
 .mb-man h1{ text-align: center; padding-top: 80px;}
 .block-5{ width: 20%; text-align: center; float: left; margin-top: 100px;}
-.block-5 small{ color: #f2f2f2; font-size: 18px; padding-top: 15px; display: block;}
+.block-5 small{ color: #f2f2f2; font-size: 20px; padding-top: 15px; display: block;}
 .block-5 img{ margin: auto; display: block; width: 130px;}
 
 .big-b{ background-color: #f2f2f2; display: flex;}
@@ -94,7 +94,9 @@ footer span{ float: right; padding-right: 50px; font-size: 18px;}
 .centerr{ text-align: center;}
 .counter-area h1 { color: #6c6c6c; font-size: 58px; text-align: center; padding-top: 50px; padding-bottom: 70px; }
 .thanks{ color: #000; text-align: center; font-size: 30px; padding: 50px 50px; background-color: #fff;}
-
+.read2{ background: #6c6c6c; display: inline-block; padding: 5px 30px; border-radius: 5px; font-size: 18px; margin-top: 20px;}
+.read2 a{ color: #fff;}
+.read2:hover{background: #444444;}
 
 form#pardot-form{ width: 640px; margin: auto; }
 form.form p label{color: #bfbfbf;margin:0px;padding:0px;}
