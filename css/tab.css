@@ -51,7 +51,7 @@ h1{font-size: 30px; padding-top: 30px;}
 
 
 @media (min-width: 992px) and (max-width: 1310px){    
-.block-5{ margin-top: 40px; width: 33.33%;} 
+.block-5{ margin-top: 40px; width: 20%;} 
 .mb-man{ height: auto; background-size: cover; padding-bottom: 50px;}
 .mb-man h1 { text-align: center; padding-top: 50px; }
 h1{ font-size: 40px;}
@@ -79,9 +79,9 @@ h1{ font-size: 40px;}
 }
 
 @media (max-width: 1300px) {
-.apps h1 { padding-top: 0px; padding-right: 20px; font-size: 30px; }
+.apps h1 { padding-top: 0px;padding-top: 40px; padding-right: 20px; font-size: 40px; }
 .apps p{padding-right: 20px;}
-.counter-area h1{ font-size: 40px;}
+.counter-area h1 , .nelson h1{ font-size: 40px;}
 .only-text-inner { width: 90%; font-size: 18px;}
 
 }
