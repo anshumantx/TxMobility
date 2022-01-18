@@ -62,7 +62,4 @@ footer{ height: auto; line-height: 24px; padding: 10px 0px;}
 form#pardot-form{ width: 100%; margin: auto; }
 .contact-area{ padding-top: 50px;}
 .nav-area img { padding-left: 15px;}
-.big-space, .li-text h1, .li-text ul{ padding-left: 0px;padding-right: 0px;}
-
-
-      
+.big-space, .li-text h1, .li-text ul{ padding-left: 0px !important;padding-right: 0px;}
