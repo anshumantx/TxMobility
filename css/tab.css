@@ -59,7 +59,7 @@ h1{ font-size: 40px;}
 }
 
 @media (max-width: 1280px) {
-.nelson img{ width: 380px;}
+.nelson img{ width: 100%;}
 .nelson h1 { font-size: 40px; padding-top: 60px;}
 
 }
@@ -79,9 +79,9 @@ h1{ font-size: 40px;}
 }
 
 @media (max-width: 1300px) {
-.apps h1 { padding-top: 0px;padding-top: 40px; padding-right: 20px; font-size: 40px; }
+.apps h1 { padding-top: 0px;padding-top: 40px; padding-right: 20px; font-size: 30px; }
 .apps p{padding-right: 20px;}
-.counter-area h1 , .nelson h1{ font-size: 40px;}
+.counter-area h1 , .nelson h1{ font-size: 30px;}
 .only-text-inner { width: 90%; font-size: 18px;}
 
 }
