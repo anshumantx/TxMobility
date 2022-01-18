@@ -129,7 +129,7 @@ h1{ color: #f2f2f2; font-size: 58px; font-weight: bold;}
 
 
 	  form#pardot-form{ width: 640px; margin: auto; }
-form.form p label{color: #ededed; font-family: arial; font-size: 13px;}
+form.form p label{color: #ededed !important; font-family: arial; font-size: 13px;}
 #pardot-form input {width: 90%;height: 30px;border: 2px solid #cbcbcb;margin-bottom:15px;border-radius: 3px;background-color: #dfdfdf;font-size: 13px;padding-left: 5px;}
 p.form-field.first_name.pd-text.required{ margin: auto;}
 .form-field {float:left;width: 50%;margin:0px;}
