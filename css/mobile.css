@@ -1,12 +1,10 @@
 @media (max-width: 767px) {
-   
-    form#pardot-form { width: 80%; margin:auto}
-    .form-field{ width: auto; float: none;}
-    #pardot-form input{ width: 100%;}
-    #pardot-form select{ width: 102%; margin-bottom: 10px;}
+form#pardot-form { width: 80%; margin:auto}
+.form-field{ width: auto; float: none;}
+#pardot-form input{ width: 100%;}
+#pardot-form select{ width: 102%; margin-bottom: 10px;}
 #pardot-form input{ width:100% !important;}
 footer span , footer small{ float: none; font-size: 18px; display: block; padding: 0; }
-
 
 
 .apps p{ font-size: 30px !important;}
@@ -20,9 +18,7 @@ header img.mainB{ position: relative; top: 55px;}
 .counter-s{margin-bottom: 60px;}
 .counter-area{ margin-top: 0px; padding-bottom: 0px;}
 .CT { font-size: 16px;}
-.nelson img {
-    width: 100%;
-}
+.nelson img { width: 100%;}
 .navbar-nav > li { font-weight: bold; font-size: 16px; padding-top: 7px; padding-bottom: 7px;}
 .navbar-nav > li:hover{background: #1a1a1a;}
 .navbar-nav{ margin: 0px;}
@@ -64,8 +60,9 @@ h1{ padding: 0px 20px; }
 .apps p{ padding-right: 0px !important;}
 footer{ height: auto; line-height: 24px; padding: 10px 0px;}
 form#pardot-form{ width: 100%; margin: auto; }
-}
 
+.nav-area img { padding-left: 15px;}
+.big-space, .li-text h1, .li-text ul{ padding-left: 0px;padding-right: 0px;}
 
 
       
