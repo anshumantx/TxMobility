@@ -111,4 +111,5 @@ span.value {width: 28px;float: left;margin-right: 9px;margin-top: -2px;}
 p.submit input{width: 55% !important; margin: auto; display: table; background-color: #f9b605 !important; font-size: 18px !important; color:#fff;}
 p.errors { display: flex; color: red; font-family: arial; }
 p.error.no-label { display: flex; color: red; font-family: arial; }
+p.error.no-label { color: red; position: absolute; top: 8px;}
 
